@@ -1,11 +1,7 @@
 
 <div align="center">
   <img src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortWaved&accessoriesType=Prescription02&hairColor=Blonde&facialHairType=BeardLight&facialHairColor=Blonde&clotheType=BlazerShirt&eyeType=Happy&eyebrowType=RaisedExcitedNatural&mouthType=Smile&skinColor=Light'/>
-  <h1>
-    Aaron Sinnott
-    <small style="display: block">Welcome to my Github profile!</small>
-  </h1>
-  
+  <h1>Welcome to my Github profile!</h1>
 </div>
 
 
