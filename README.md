@@ -23,4 +23,4 @@ I write about Irish language, identity, and colonialism at [Substack](https://aa
 
 - 🌐 [aaronsinnott.me](https://aaronsinnott.me)
 - 💼 [LinkedIn](https://www.linkedin.com/in/aaronsinnott/)
-- ✉️ [aaronsnig@gmail.com](mailto:aaronsnig@gmail.com)
+- ✉️ [aaronsnig@gmail.com](mailto:aaron@aaronsinnott.me)
