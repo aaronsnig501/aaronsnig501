@@ -15,10 +15,9 @@ I write about Irish language, identity, and colonialism at [Substack](https://aa
 
 ## What I'm working on
 
-- 🟢 [Misneach](https://github.com/misneach-site/misneach) — Irish language normalisation platform (NestJS, Kafka, SvelteKit, AWS)
-- 🎮 [Gaeilge sa Chonsol](https://github.com/aaronsnig501/gaeilge-sa-chonsol) — open source game localisation platform · Spyro 50%
-- 🕹️ EmuHub — browser-based multi-system emulator, built from first principles
-
+- 🟢 [Misneach](https://github.com/misneach-site/misneach) — Irish language normalisation platform (NestJS, Kafka, SvelteKit, AWS) · Live on AWS
+- 🎮 [Gaeilge sa Chonsol](https://github.com/aaronsnig501/gaeilge-sa-chonsol) — open source game localisation platform · Spyro 50% · Live on GitHub Pages
+- 🕹️ [EMU·HUB](https://aaronsnig501.github.io/emuhub) — browser-based CHIP-8 emulator, built from first principles · Live on GitHub Pages
 ---
 
 ## Reach me
