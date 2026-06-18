@@ -25,6 +25,6 @@ I'm also building [Misneach](https://github.com/misneach-site/misneach) — a pl
 
 ## Reach me
 
-- 🌐 [aaronsinnott.me](https://www.aaronsinnott.me??utm_source=github)
+- 🌐 [aaronsinnott.me](https://www.aaronsinnott.me?utm_source=github)
 - 💼 [LinkedIn](https://linkedin.com/in/aaronsinnott)
 - ✉️ [aaron@aaronsinnott.me](mailto:aaron@aaronsinnott.me)
